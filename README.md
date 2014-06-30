@@ -1,7 +1,7 @@
 Kubitest
 =======
 
-## Makje a beautiful gallery
+## Make a beautiful gallery
 
 From the ugly gallery.html file, make a beautiful gallery using any tool/technology 
 you wish. No need to spend days on it.
